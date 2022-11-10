@@ -1,0 +1,15 @@
+D:\С#\торты\obj\Debug\net6.0\торты.csproj.AssemblyReference.cache
+D:\С#\торты\obj\Debug\net6.0\торты.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\торты\obj\Debug\net6.0\торты.AssemblyInfoInputs.cache
+D:\С#\торты\obj\Debug\net6.0\торты.AssemblyInfo.cs
+D:\С#\торты\obj\Debug\net6.0\торты.csproj.CoreCompileInputs.cache
+D:\С#\торты\bin\Debug\net6.0\торты.exe
+D:\С#\торты\bin\Debug\net6.0\торты.deps.json
+D:\С#\торты\bin\Debug\net6.0\торты.runtimeconfig.json
+D:\С#\торты\bin\Debug\net6.0\торты.dll
+D:\С#\торты\bin\Debug\net6.0\торты.pdb
+D:\С#\торты\obj\Debug\net6.0\торты.dll
+D:\С#\торты\obj\Debug\net6.0\refint\торты.dll
+D:\С#\торты\obj\Debug\net6.0\торты.pdb
+D:\С#\торты\obj\Debug\net6.0\торты.genruntimeconfig.cache
+D:\С#\торты\obj\Debug\net6.0\ref\торты.dll
