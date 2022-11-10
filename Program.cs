@@ -9,7 +9,7 @@ string bbc = "Выберите параметр торта\n" +
             "  Декор\n" +
             "  Конец заказа";
 bb.AA(1);
-bb.yaebalsenuvrot(bbc, 8);
+bb.dd(bbc, 8);
 ConsoleKeyInfo a;
 do
 {
@@ -24,7 +24,7 @@ do
         default:
             bb.AA(2);
             bb.och();
-            bb.yaebalsenuvrot(bbc, 8);
+            bb.dd(bbc, 8);
             break;
 
     }

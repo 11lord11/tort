@@ -16,7 +16,7 @@
         private static int izncena;
         private static List<string> bc = new List<string> { };
         
-        public static void yaebalsenuvrot(string a,int c)
+        public static void dd(string a,int c)
         {
             string txt = "";
             for (int i = 0; i < bc.Count; i++)
@@ -161,7 +161,7 @@
             } while (b.Key != ConsoleKey.Enter);
             bc.Add(a[pos - 2]);
             izncena += cena;
-            yaebalsenuvrot("Выберите параметр торта\n" +
+            dd("Выберите параметр торта\n" +
        "----------------------------------\n" +
             "  Форма\n" +
             "  Размер\n" +
